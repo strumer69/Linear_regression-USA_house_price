@@ -37,12 +37,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - The trained **Linear Regression** model provides insights into how different features influence house prices.  
 - Performance is evaluated using **R² score** and **MSE**, providing an indication of prediction accuracy.  
 
-## 📌 Future Improvements  
-- Use **multiple regression models** (e.g., Ridge, Lasso) to improve predictions.  
-- Implement **feature engineering** for better model performance.  
-- Extend analysis using **non-linear models** (e.g., Decision Trees, Random Forests).  
-
-## 📜 License  
-This project is open-source and available under the **MIT License**.  
 
 ---
